@@ -5,11 +5,18 @@ body {
 h1 {
     color: rgb(255, 255, 255);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
     text-align: center;
+    background-color: rgb(63, 63, 63);
 }
 
+ul {
+    background-color: rgb(53, 53, 53);
+    color: white;
+}
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    text-align: center;
+    text-align: left;
+    background-color: rgb(119, 119, 119);
 }
